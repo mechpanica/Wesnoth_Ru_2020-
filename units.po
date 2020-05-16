@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-03-09 23:11 UTC\n"
-"PO-Revision-Date: 2020-02-09 14:08+0300\n"
+"PO-Revision-Date: 2020-05-12 13:45+0300\n"
 "Last-Translator: Fedor Khod'kov <fkhodkov@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #. [attack]: type=impact
@@ -5832,7 +5832,7 @@ msgstr "огненные когти"
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:4
 msgid "Giant Mudcrawler"
-msgstr "Грязевик-гигант"
+msgstr "Гигантский грязевик"
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:19
@@ -5845,12 +5845,12 @@ msgid ""
 "making them immune to wildlife that rely on poison to fight."
 msgstr ""
 "Более живучие, чем их сородичи меньшего размера, эти големы из грязи намного "
-"способнее сражаются с противниками своими земляными руками, а также они "
-"более подвижны. Вызванные к жизни могущественными магами, которые ищут "
-"эффективные способы запугивать как мирных жителей, так и солдат, они также "
-"могут иногда бродить по диким землям время от времени, их земляной состав "
-"делает их невосприимчивыми к той части живой природы, которая полагается в "
-"бою на яд."
+"искуснее и подвижнее в схватке с обученным противником, несмотря на свои "
+"грубые руки и ноги. Вызванных к жизни могущественными магами, ищущими "
+"эффективные способы запугивать как мирных жителей, так и солдат, этих "
+"големов также можно заметить бродящими по необитаемым землям, их земляные "
+"тела невосприимчивы к той части дикой природы, которая полагается в бою на "
+"яд."
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:41
@@ -5861,7 +5861,7 @@ msgstr "кусок грязи"
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:4
 msgid "Giant Rat"
-msgstr "Крыса-гигант"
+msgstr "Гигантская крыса"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:19
@@ -5871,8 +5871,8 @@ msgid ""
 "on any footing. While notably aggressive at night, these creatures do not "
 "pose much of a threat to any serious fighter."
 msgstr ""
-"Гораздо большего размера, чем обычные крысы, которые часто обитают в крупных "
-"городах, эти твари могут ранить безоружного мирного жителя, при этом будучи "
+"Гораздо большего размера, чем обитающие в крупных городах обычные крысы эти "
+"твари могут ранить безоружного мирного жителя, при этом будучи "
 "разочаровывающе неуловимыми к попыткам растоптать их. Особенно агрессивные в "
 "ночное время, тем не менее, эти существа не представляют особой угрозы для "
 "любого серьезного бойца."
@@ -5973,9 +5973,9 @@ msgid ""
 "They have a vicious bite, made worse by the fact that it is poisoned, and "
 "can also fling webs through the air to trap their prey."
 msgstr ""
-"Гигантские пауки обитают в глубинах Кналга, выжидая жертв. Они могут кусать "
-"в ближнем бою, отравляя противника, а также атаковать паутиной с дальней "
-"дистанции, замедляя жертву."
+"Гигантские пауки обитают в глубинах Кналга, поджидая своих жертв. Они могут "
+"кусать в ближнем бою, отравляя противника, а также атаковать паутиной с "
+"дальней дистанции, замедляя жертву."
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Spider.cfg:42
@@ -6007,10 +6007,10 @@ msgid ""
 "makes them the tool of choice for ambitious but inexperienced summoners."
 msgstr ""
 "Простые существа, созданные из земли и воды, Грязевики пытаются постоять за "
-"себя, плюясь комками грязи с удивительной силой. Хоть они и медленные, "
-"хрупкие и уязвимы к огню, их быстрое и легкое создание, наряду с их "
+"себя, плюясь комками грязи с удивительной силой. Хоть они и медленные, и "
+"хрупкие, и уязвимы к огню, быстрое и легкое их создание, наряду с "
 "устойчивостью к общепринятому среди мирных жителей дробящему оружию, делает "
-"их идеальным инструментом для амбициозных, но неопытных заклинателей."
+"Грязевиков идеальным инструментом для амбициозных, но неопытных заклинателей."
 
 #. [unit_type]: id=Roc, race=monster, description=
 #: data/core/units/monsters/Roc.cfg:4
